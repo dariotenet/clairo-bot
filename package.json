@@ -15,9 +15,9 @@
   "license": "ISC",
   "type": "module",
   "bugs": {
-    "url": "https://github.com/wachitorico69/clairo-bot/issues"
+    "url": "https://github.com/dariotenet/clairo-bot/issues"
   },
-  "homepage": "https://github.com/wachitorico69/clairo-bot#readme",
+  "homepage": "https://github.com/dariotenet/clairo-bot#readme",
   "dependencies": {
     "@atproto/api": "^0.20.15",
     "dotenv": "^17.4.2",
